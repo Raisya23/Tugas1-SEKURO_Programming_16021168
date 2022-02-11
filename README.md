@@ -8,4 +8,4 @@
 5. [Bagian-V-Bekerja dengan Git](https://github.com/Raisya23/Tugas1-SEKURO_Programming_16021168/blob/main/Bagian-V-Bekerja%20dengan%20Git.md)
 6. [Bagian-IV-Git : Branch & Merge](https://github.com/Raisya23/Tugas1-SEKURO_Programming_16021168/blob/main/Bagian-VI-Git%20:%20Branch%20%26%20Merge.md)
 7. [Bagian-XII-File .gitignore](https://github.com/Raisya23/Tugas1-SEKURO_Programming_16021168/blob/main/Bagian-XII-File%20.gitignore.md)
-
+8. [Bukti Screenshoot Percobaan](https://docs.google.com/document/d/1NZmejyC1idqulAiS93lWVura_dfT5yAN8SKwAMi2bG4/edit?usp=sharing)
