@@ -1,13 +1,14 @@
+
 ##APA ITU GIT
 
 GIT merupakan bagian dari Version Control System. VCS adalah sistem yang mengelola perubahan dalam suatu dokumen.
 
-**Kenapa harus menggunakan VCS?**
+ **Kenapa harus menggunakan VCS?**
 1. Mengatasi perubahan di file, dapat melihat history perubahan yang dilakukan
 2. Memudahkan kita dalam berkolaborasi
 3. Sharing proyek yang sudah dikerjakan
 
-**Apa bedanya sama Gdrive dan Dropbox?**
+ **Apa bedanya sama Gdrive dan Dropbox?**
 Karena dua app ini tidak didesain untuk source code
 
 ##Version Control System(VCS)
@@ -36,13 +37,13 @@ Hal ini akan memudahkan kita untuk berkolaborasi dengan orang lain. Selain itu, 
 
 ## Istilah Git
 
-Repo : Folder project
-Commit : Rekaman/snapshot dari repo
-Hash : Penanda unik dalam sebuah commit
-Checkout : Berpindah ke sebuah commit
-Branch : Cabang bebas dari sebuah commit
-Merge : Menggabungkan branch
-Remote : Sumber yang memiliki repo
-Clone : Mengambil repo dari remote
-Push : Mengirimkan commit ke repo
-Pull : Mengambil commit dari repo
+1. Repo : Folder project
+2. Commit : Rekaman/snapshot dari repo
+3. Hash : Penanda unik dalam sebuah commit
+4. Checkout : Berpindah ke sebuah commit
+5. Branch : Cabang bebas dari sebuah commit
+6. Merge : Menggabungkan branch
+7. Remote : Sumber yang memiliki repo
+8. Clone : Mengambil repo dari remote
+9. Push : Mengirimkan commit ke repo
+10. Pull : Mengambil commit dari repo
