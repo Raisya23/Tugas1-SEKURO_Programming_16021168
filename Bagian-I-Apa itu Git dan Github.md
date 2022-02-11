@@ -1,5 +1,5 @@
 
-##APA ITU GIT
+## APA ITU GIT
 
 GIT merupakan bagian dari Version Control System. VCS adalah sistem yang mengelola perubahan dalam suatu dokumen.
 
@@ -9,9 +9,9 @@ GIT merupakan bagian dari Version Control System. VCS adalah sistem yang mengelo
 3. Sharing proyek yang sudah dikerjakan
 
  **Apa bedanya sama Gdrive dan Dropbox?**
-Karena dua app ini tidak didesain untuk source code
+ Karena dua app ini tidak didesain untuk source code
 
-##Version Control System(VCS)
+## Version Control System(VCS)
 
 VCS adalah ebuah sistem yang menyimpan ‘rekaman/snapshot’ perubahan pada source code. 
 VCS ini dapat membuat kita:
